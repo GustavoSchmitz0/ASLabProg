@@ -1,0 +1,14 @@
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\AS LdP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\AS LdP.AssemblyInfoInputs.cache
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\AS LdP.AssemblyInfo.cs
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\AS LdP.csproj.CoreCompileInputs.cache
+C:\Users\gufer\Desktop\AS LdP\bin\Debug\net8.0\AS LdP.exe
+C:\Users\gufer\Desktop\AS LdP\bin\Debug\net8.0\AS LdP.deps.json
+C:\Users\gufer\Desktop\AS LdP\bin\Debug\net8.0\AS LdP.runtimeconfig.json
+C:\Users\gufer\Desktop\AS LdP\bin\Debug\net8.0\AS LdP.dll
+C:\Users\gufer\Desktop\AS LdP\bin\Debug\net8.0\AS LdP.pdb
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\AS LdP.dll
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\refint\AS LdP.dll
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\AS LdP.pdb
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\AS LdP.genruntimeconfig.cache
+C:\Users\gufer\Desktop\AS LdP\obj\Debug\net8.0\ref\AS LdP.dll
